@@ -1,0 +1,52 @@
+[
+    {
+        "curso": "Arquitetura e Urbanismo",
+        "duração": "10 semestres",
+        "escola": "Escola de Arquitetura e Desing"
+    },
+    {
+        "curso": "Design de Interiores",
+        "duração": "4 semestres",
+        "escola": "Escola de Arquitetura e Desing"   
+    },
+    {
+        "curso": "Psicologia",
+        "duração": "10 semestres",
+        "escola": "Escola de Ciências da Saúde"
+    },
+    {
+        "curso": "Serviço Social",
+        "duração": "7 semestres",
+        "escola": "Escola de Ciências da Saúde"
+    },
+    {
+        "curso": "Jornalismo",
+        "duração": "8 semestres",
+        "escola": "Escola de Comunicação"
+    },
+    {
+        "curso": "Design Gtáfico",
+        "duração": "4 semestres",
+        "escola": "Escola de Comunicação"
+    },
+    {
+        "curso": "Ciência da Computação",
+        "duração": "8 semestres",
+        "escola": "Escola de Engenharia e Tecnologia"
+    },
+    {
+        "curso": "Gestão da Tecnologia da Informação",
+        "duração": "5 semestres",
+        "escola": "Escola de Engenharia e Tecnologia"
+    },
+    {
+        "curso": "Pedagogia",
+        "duração": "8 semestres",
+        "escola": "Escola de Licenciatura"
+    },
+    {
+        "curso": "Gastronomia",
+        "duração": "4 semestres",
+        "escola": "Escola de Negócios e Hospitalidade"
+    }
+]

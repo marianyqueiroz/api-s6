@@ -1,0 +1,52 @@
+[
+    {
+        "empresa": "Accenture",
+        "endereço": "Av. Alfredo Lisboa, 810 - Recife - PE",
+        "contato": "(81) 2123-6733"
+    }, 
+    {
+        "empresa": "Agora Eu Consigo",
+        "endereço": "Rua do Apolo, 161, Recife - PE",
+        "contato": "(81) 3034-5868"
+    },
+    {
+        "empresa": "CESAR School",
+        "endereço": "Av. Cais do Apolo, 77 - Recife - PE",
+        "contato": " (81) 3419-6700"
+    },
+    {
+        "empresa": "Consenso Tecnologia",
+        "endereço": "Estr. de Belém, 342 - Encruzilhada - PE",
+        "contato": " (81) 3419-6700"
+    },
+    {
+        "empresa": "Ensinar Tecnologia",
+        "endereço": "Av. Marquês de Olinda, 126 - Recife - PE",
+        "contato": "(81) 3104-0089"   
+    },
+    {
+        "empresa": "Eólica Tecnologia",
+        "endereço": "Rua Domingos José Martins, 75, sala 606 - Recife - PE",
+        "contato": "(81) 3011-0058" 
+    },
+    {  
+        "empresa": "Factura Tecnologia",
+        "endereço": "Rua Nicarágua, 159 - Espinheiro - Recife - PE",
+        "contato": "(81) 3223-8348" 
+    },
+    {
+        "empresa": "Neurotech Tecnologia da Informação",
+        "endereço": "Paço Alfândega, R. Alfândega, 35, Recife - PE",
+        "contato": "(81) 3312-2740"
+    },
+    {
+        "empresa": "Serttel",
+        "endereço": "R. Poe. Carlos Drumond de Andrade, 500 - Várzea, Recife - PE",
+        "contato": "(81) 2138-6100"
+    },
+    {
+        "empresa": "Procenge Tecnologia",
+        "endereço": " Av. Marquês de Olinda, 182 - Recife, PE",
+        "contato": "(81) 4009-2877"  
+    }
+]

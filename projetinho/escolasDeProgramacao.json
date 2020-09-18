@@ -1,0 +1,57 @@
+[
+    {
+        "escola": "Ctrl+Play",
+        "endereço": "R. Santo Elías, 388 - Espinheiro, Recife - PE",
+        "contato": "(81) 3071-8328"
+    },
+    {
+        "escola": "Codar Xy",
+        "endereço": "R. Antenor Navarro 81 galeria espaço jaqueira sala 113 - Graças, Recife - PE",
+        "contato": "(81) 98899-4353"
+    },
+    {
+        "escola": "CódigoKid Escola de Programação e Robótica",
+        "endereço": "R. Maria Rita Barradas, 127 - sl 102 - Piedade, Jaboatão dos Guararapes - PE",
+        "contato": "(81) 3203-4487"
+    },
+    {
+        "escola": "SuperGeeks",
+        "endereço": "R. Henrique Capitulino, 118 - 2o andar - Sala C - Boa Viagem, Recife - PE",
+        "contato": "(81) 99104-9581"
+    },
+    {
+        "escola": "codeBuddy",
+        "endereço": "R. Prof. Mário de Castro, 305 - Boa Viagem, Recife - PE",
+        "contato": " (81) 98246-8282"
+    },
+    {
+        "escola": "Interdata Cursos - Espaço para Eventos e Treinamentos",
+        "endereço": "Av. Governador Carlos de Lima Cavalcanti, 100 - Derby, Recife - PE",
+        "contato": "(81) 99949-2156"
+    },
+    {
+        "escola": "Happy Code",
+        "endereço": "Av. dos Estados, 477 - Nova Caruaru, Caruaru - PE",
+        "contato": "(81) 99442-9402"
+    },
+    {
+        "escola": "{reprograma}",
+        "endereço": "Avenida Paulista, 1374, São Paulo - SP",
+        "contato": "https://www.reprograma.com.br/"
+    },
+    {
+        "escola": "Labenu",
+        "endereço": "R. Pais Leme, 215, Conjunto 820, Pinheiros",
+        "contato": "https://www.labenu.com.br/"
+    },
+    {
+        "escola": "Escola SAGA - Recife",
+        "endereço": "R. Antônio Falcão, 234 - Boa Viagem, Recife - PE",
+        "contato": "(81) 3463-5888"
+    },
+    {
+        "escola": "Colmeia Digital- Escola de Educação Tecnológica",
+        "endereço": "R. Floriano Peixoto, 85 - Santo Antônio, Recife - PE",
+        "contato": "(81) 3097-0775"
+    }
+]
