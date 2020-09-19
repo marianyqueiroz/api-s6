@@ -1,0 +1,53 @@
+[
+    {
+        "nome": "Yasmim",
+        "onde conheci": "Escola",
+        "idade": 21
+    },
+    {
+        "nome": "Priscila",
+        "onde conheci": "Faculdade",
+        "idade": 24
+    },
+    {
+        "nome": "João",
+        "onde conheci": "No bairro",
+        "idade": 21
+    },
+    {
+        "nome": "Alanes",
+        "onde conheci": "No bairro",
+        "idade": 25
+    },
+    {
+        "nome": "Beatriz",
+        "onde conheci": "Show",
+        "idade": 25
+    },
+    {
+        "nome": "Camila",
+        "onde conheci": "Faculdade",
+        "idade": 24
+    },
+    {
+        "nome": "Ana",
+        "onde conheci": "Churrasco",
+        "idade": 32
+    },
+    {
+        "nome": "Bella",
+        "onde conheci": "Centro de estética",
+        "idade": 30
+    },
+    {
+        "nome": "Rafaela",
+        "onde conheci": "Almoço de família",
+        "idade": 21
+    },
+    {
+        "nome": "Bruna",
+        "onde conheci": "Festa",
+        "idade": 21
+    }
+    
+]

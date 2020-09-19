@@ -1,0 +1,52 @@
+[
+    {
+        "cidade": "Recife",
+        "espaço mais conhecido": "Praça Rio Branco",
+        "região": "Nordeste"
+    },
+    {
+        "cidade": "Olinda",
+        "espaço mais conhecido": "Alto da Sé",
+        "região": "Nordeste"
+    },
+    {
+        "cidade": "Natal",
+        "espaço mais conhecido": "Praia de Pipa",
+        "região": "Nordeste"
+    },
+    {
+        "cidade": "Paraíba",
+        "espaço mais conhecido": "Farol do Cabo Branco",
+        "região": "Nordeste"
+    },
+    {
+        "cidade": "Cabo de Santo Agostinho",
+        "espaço mais conhecido": "Praia do Paiva",
+        "região": "Nordeste"
+    },
+    {
+        "cidade": "Jaboatão dos Guararapes",
+        "espaço mais conhecido": "Jardim Botânico",
+        "região": "Nordeste"
+    },
+    {
+        "cidade": "Bahia",
+        "espaço mais conhecido": "Parque Nacional da Chapada Diamantina",
+        "região": "Nordeste"
+    },
+    {
+        "cidade": "Fortaleza",
+        "espaço mais conhecido": "Beach Park",
+        "coordenada": "Nordeste"
+    },
+    {
+        "cidade": "Maceió",
+        "espaço mais conhecido": "Praia do Francês",
+        "coordenada": "Nordeste"
+    },
+    {
+        "cidade": "Maragogi",
+        "espaço mais conhecido": "Praia Peroba",
+        "coordenada": "Nordeste"
+    }
+]

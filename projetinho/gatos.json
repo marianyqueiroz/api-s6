@@ -1,0 +1,52 @@
+[
+    {
+        "nome": "Melinda",
+        "pelagem": "Preto e branco",
+        "idade": "2 anos"
+    },
+    {
+        "nome": "Gaia",
+        "pelagem": "Preto e branco",
+        "idade": "1 ano e 2 meses"
+    },
+    {
+        "nome": "Frida",
+        "pelagem": "Cinza",
+        "idade": "4 meses"
+    },
+    {
+        "nome": "Toquinho",
+        "pelagem": "Preto e branco",
+        "idade": "2 meses"
+    },
+    {
+        "nome": "Rafael",
+        "pelagem": "Branco",
+        "idade": "2 meses"
+    },
+    {
+        "nome": "Cecília",
+        "pelagem": "Branco",
+        "idade": "2 meses"
+    },
+    {
+        "nome": "Ágata",
+        "pelagem": "Marrom",
+        "idade": "2 meses"
+    },
+    {
+        "nome": "Bento",
+        "pelagem": "Laranja",
+        "idade": "5 anos"
+    },
+    {
+        "nome": "Nina",
+        "pelagem": "Cinza",
+        "idade": "7 anos"
+    },
+    {
+        "nome": "Pudim",
+        "pelagem": "Branco",
+        "idade": "3 anos"
+    }
+]
